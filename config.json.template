@@ -10,5 +10,5 @@
       "ResourceLabel": "$resource_label"
     }
    },
-  "ServiceNamespace": "ecss"
+  "ServiceNamespace": "ecs"
 }
