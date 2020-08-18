@@ -28,7 +28,7 @@ git clone https://github.com/brentley/ecsdemo-crystal.git
 ## Build a VPC, ECS Cluster, and ALB:
 ![infrastructure](images/private-subnet-public-lb.png)
 ```
-cd ~/environment/container-demo
+cd ~/environment/container-demosdd
 
 aws cloudformation deploy --stack-name container-demo --template-file cluster-fargate-private-vpc.yml --capabilities CAPABILITY_IAM
 aws cloudformation deploy --stack-name container-demo-alb --template-file alb-external.yml
