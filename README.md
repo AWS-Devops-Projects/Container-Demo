@@ -14,7 +14,7 @@ This installs some handy text parsing utilities, and the latest ecs-cli.
 ## Clone this demo repository:
 ```
 cd ~/environment
-git clone https://github.com/brentley/container-demo.git
+git clone https://github.com/AWS-Devops-Projects/Container-Demo.git
 ```
 
 ## Clone our application microservice repositories:
