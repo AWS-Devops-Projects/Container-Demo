@@ -3,6 +3,7 @@
 ```bash
 # Choose your region, and store it in this environment variable
 
+
 export AWS_DEFAULT_REGION=<aws-region-here> # Example region: us-west-2
 echo "export AWS_DEFAULT_REGION=$AWS_DEFAULT_REGION >> ~/.bashrc"
 
