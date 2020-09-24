@@ -1,5 +1,6 @@
 ## Bring up a cloud9 IDE and run these prerequisite commands:
 ```
+
 # Choose your region, and store it in this environment variable
 export AWS_DEFAULT_REGION=ap-southeast-1 
 echo "export AWS_DEFAULT_REGION=$AWS_DEFAULT_REGION >> ~/.bashrc"
