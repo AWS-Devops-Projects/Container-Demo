@@ -5,3 +5,4 @@ aws-cdk.aws_ecs_patterns==0.35.0
 aws-cdk.aws_elasticloadbalancingv2==0.35.0
 aws-cdk.aws_logs==0.35.0
 aws-cdk.aws_servicediscovery==0.35.0
+
