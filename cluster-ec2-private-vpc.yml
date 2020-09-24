@@ -1,3 +1,4 @@
+
 AWSTemplateFormatVersion: '2010-09-09'
 Description: EC2 ECS cluster running containers in a private subnet. Supports
              public facing load balancers, private internal load balancers, and
